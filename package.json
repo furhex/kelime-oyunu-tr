@@ -1,6 +1,6 @@
 {
   "name": "kelime-oyunu-tr",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Kelime oyunu yapmanızı kolaylaştıran bir modül. Discord botu vb alanlarda kullanabilirsiniz.",
   "main": "",
   "bin": "./index.js",
@@ -9,6 +9,10 @@
   },
   "keywords": ["tr-sozluk", "tdk-api", "tdk", "discord", "kelime-oyunu", "word-games", "turkce-sozluk"],
   "author": "furhex",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/furhex/kelime-oyunu-tr"
+  },
   "license": "ISC",
   "dependencies": {
     "axios": "^0.27.2"
