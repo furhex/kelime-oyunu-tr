@@ -55,7 +55,7 @@ module.exports = async (kelime) => {
             return {
                 onay: onay,
                 kelime: kelime,
-                sebep: "Kelimenin kökeni türkçce değil.",
+                sebep: "Kelimenin kökeni Türkçe değil.",
                 lisan : veri.data[0].lisan
             }
         }
